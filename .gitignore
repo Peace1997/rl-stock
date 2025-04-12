@@ -1,0 +1,3 @@
+# Ignore api_files directory
+financial_analysis_report/api_files
+financial_analysis_report/output
